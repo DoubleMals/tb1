@@ -68,7 +68,6 @@ class _LoginPageState extends State<LoginPage> {
               ),
               TextButton(
                 onPressed: () {
-                  // Tambahkan logika untuk halaman buat akun baru
                 },
                 child: Text("Buat Akun Baru"),
               ),
