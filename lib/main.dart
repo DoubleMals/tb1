@@ -66,11 +66,6 @@ class _LoginPageState extends State<LoginPage> {
                 },
                 child: Text("Forgot Password?"),
               ),
-              TextButton(
-                onPressed: () {
-                },
-                child: Text("Buat Akun Baru"),
-              ),
             ],
           ),
         ),
